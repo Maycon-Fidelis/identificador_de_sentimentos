@@ -21,8 +21,8 @@ Este é um projeto capaaz de detectar qual o sentimento presente em um texto, se
 1. Clone este repositório:
 
     ```bash
-    git clone https://github.com/Maycon-Fidelis/sentimentos.git
-    cd sentimentos
+    git clone https://github.com/Maycon-Fidelis/identificador_de_sentimentos.git
+    cd identificador_de_sentimentos
     ```
 
 2. Instale as dependências (se ainda não estiverem instaladas):
@@ -31,7 +31,7 @@ Este é um projeto capaaz de detectar qual o sentimento presente em um texto, se
     pip install pandas numpy scikit-learn jupyterlab
     ```
     
-3. Dentro da pasta `sentimentos`, digite o comando para abrir o Jupyter Notebook no navegador:
+3. Dentro da pasta `identificador_de_sentimentos`, digite o comando para abrir o Jupyter Notebook no navegador:
    ```
    jupyter notebook
    ```
