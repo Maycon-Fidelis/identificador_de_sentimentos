@@ -13,7 +13,7 @@ Este é um projeto capaaz de detectar qual o sentimento presente em um texto, se
 - Pandas
 - NumPy
 - Scikit-learn
-- Jupyter Notebook (executado pelo Jupyter Lab, no Ubuntu)
+- Jupyter Notebook
 
 
 ## Instruções para Execução
@@ -31,9 +31,12 @@ Este é um projeto capaaz de detectar qual o sentimento presente em um texto, se
     pip install pandas numpy scikit-learn jupyterlab
     ```
     
-3. Abra o Jupyter Lab e selecione a pasta `sentimentos`:
+3. Dentro da pasta `sentimentos`, digite o comando para abrir o Jupyter Notebook no navegador:
+   ```
+   jupyter notebook
+   ```
 
-4. No Jupyter Lab, abra o arquivo `sentimentos.ipynb`.
+4. No Jupyter, abra o arquivo `sentimentos.ipynb`.
 
 ## Uso
 
